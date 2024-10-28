@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Climbable
+  - rope
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - cast
   - Water
   - UI
   - 

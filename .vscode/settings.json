@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "InteractionProject.sln"
+    "dotnet.defaultSolution": "Interaction.sln"
 }
