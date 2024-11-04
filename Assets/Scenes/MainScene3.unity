@@ -2531,10 +2531,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f49b88e6e5ea0ee488c2243d7bc98cf7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 0}
-  triggerAction: {fileID: 0}
+  controller: {fileID: 435924265}
+  triggerAction: {fileID: -5982496924579745919, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   moveSpeed: 2
-  player: {fileID: 0}
+  player: {fileID: 238358760}
   climbableTag: Climbable
 --- !u!136 &2013834731
 CapsuleCollider:
