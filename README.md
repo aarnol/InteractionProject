@@ -38,20 +38,25 @@ When jumping
 When moving head
 ## Post interview
 1. Which interaction felt the most natural?
-3rd
-3rd
-3rd (pulling)
-shaking
-grappling hook
+- 3rd
+- 3rd
+- 3rd (pulling)
+- shaking
+- grappling hook
 1. Which did you enjoy the most?
-The first one (felt like flying)
-3rd
-Grappling hook
-grappling
-shaking
+- The first one (felt like flying)
+- 3rd
+- Grappling hook
+- grappling
+- shaking
 1. Did anything feel unnatural or difficult to use?
-2nd one didnt entirely work
-2nd felt weirdly linear
-pulling with only one hand
-Shaking felt like it needed to be too fast (also add text to show which is which)
-pull felt like shaking but with the triggers
+- 2nd one didnt entirely work
+- 2nd felt weirdly linear
+- pulling with only one hand
+- Shaking felt like it needed to be too fast (also add text to show which is which)
+- pull felt like shaking but with the triggers
+
+
+
+### Reactions
+I think people overall liked the third one (pulling) the best but would have liked to use both hands to make it feel better. In general people didn't like the second one but they also tended to find it be the coolest or most fun. I think the shaking was the worst overall but the other two are worth persuing and improving.
